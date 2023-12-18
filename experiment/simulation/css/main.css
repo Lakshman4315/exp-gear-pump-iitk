@@ -96,7 +96,7 @@ td{
 
     grid-template-areas: 
     "instruction-area instruction-area instruction-area instruction-area "
-    "area2 area3 area3 areax"
+    "area2 area2 area3 areax"
     "area1 area1 area1 area1 "
     "area6 area6 area6 area6 "
 
@@ -161,8 +161,6 @@ td{
 
 .flow-rate-slider{
     align-content: center;
-    /* outline: none; */
-    /* background: linear-gradient(to right, #ff5733 0%, #ff5733 33%, #f5d142 33%, #f5d142 66%, #2ecc71 66%, #2ecc71 100%); */
 }
 
 datalist {
@@ -181,14 +179,6 @@ input[type="range"] {
     width: 200px;
     margin: 0;
   }
-
-/* #markers option {
-    background-color: #3498db;
-    color: white;
-    border: 1px solid #2980b9;
-    text-align: center;
-    width: 33%;
-  } */
 
 .item4{
     align-content: center;
